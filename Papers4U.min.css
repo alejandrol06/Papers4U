@@ -1,1 +1,1 @@
-.txtbox{font-size:18pt;height:420px;width:420px}
+.static{background-image:url(img/fondo.png);background-attachment:fixed;background-repeat:repeat;position:absolute;width:100%;z-index:100;bottom:0;top:64px}.container{background-color:#ff3333;opacity:1;text-align:center;color:white;width:300px;height:250px;margin-top:200px;border-radius:1rem;display:flex;align-items:center;justify-content:center;box-shadow:0 0 100px #000}
